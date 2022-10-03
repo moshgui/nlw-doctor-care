@@ -207,8 +207,3 @@ button.menu-button:hover {
     color: #fff;
     cursor: pointer;
 }
-
-img.img-content {
-    max-width: 40em;
-    height: 100%;
-}
