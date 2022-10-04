@@ -9,7 +9,7 @@
 </p>
 
 ## Deploy
-<p>O projeto está disponível neste <a href="https://guilhermemendes.w3spaces.com">Link</a>
+<p>O projeto está disponível neste <a href="https://633b8a195a5ed521e4039cf7--splendid-wisp-1022f5.netlify.app/">Link</a>
 </p>
 
 ## 🚀 Projeto
