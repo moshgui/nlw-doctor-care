@@ -207,3 +207,8 @@ button.menu-button:hover {
     color: #fff;
     cursor: pointer;
 }
+
+.hamburger {
+    display: none;
+    cursor: pointer;
+}

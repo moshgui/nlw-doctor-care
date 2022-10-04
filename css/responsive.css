@@ -50,4 +50,26 @@
    .card p {
       text-align: left;
    }
+
+   .hamburger {
+      display: block;
+   }  
+   
+   .active {
+      display: flex;
+      flex-direction: column;   
+      text-align: center; 
+      align-items: center;         
+   }
+
+   #nav-menu {
+      position: absolute;
+      width: 100%;
+      top: 100px;      
+   }
+
+   ul {      
+      list-style: none;
+      font-weight: bold;
+   }
 }
