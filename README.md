@@ -1,7 +1,3 @@
-<p align="center">
-    <img alt="Git Explorer" src="./.github/Capa.png"/>
-</p>
-
 <h1 align="center">
 	NLW Return Origin by Rockeseat
 </h1>
