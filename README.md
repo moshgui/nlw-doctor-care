@@ -17,4 +17,8 @@ DoctorCare um site magnífico e 100% responsivo para agendamento de consulta.
 - HTML 5
 - CSS 3
 - JavaScript
-- ScrollReveal
+- [ScrollReveal](https://scrollrevealjs.org/)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912263666619803). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
