@@ -9,11 +9,7 @@
 <p align="center">Trilha Origin do Evento Next Level Week Return.</p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-2ecc71">
-
-  <a href="https://www.linkedin.com/in/moshgui/" target="_blank">
-    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-igorthierry-2ecc71?style=social&logo=linkedin">
-  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-2ecc71"> 
 </p>
 
 ## 🚀 Projeto
